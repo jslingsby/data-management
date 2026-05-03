@@ -29,6 +29,16 @@ That should be it!
 
 ---
 
+## Samuel & König-Ries (2021) "Understanding experiments and research practices for reproducibility: An exploratory study. PeerJ"
+
+This study discusses how even though over 90% of researchers agree that there is a reproducibility crisis, there is still a lack of effort to increase reproducibility. This study identifies some of the barriers to this as poor documentation, a lack of shared data and code, as well as insufficient openness around methods.Another contributing factor is also institutional culture and incentives surrounding research.
+
+https://peerj.com/articles/11140/
+
+> Contributor: Luke Reed
+
+---
+
 ## [(Zaiko et al., 2022)](https://doi.org/10.1111/1755-0998.13485) Towards reproducible metabarcoding data: Lessons from an international cross-laboratory experiment.
 
 High-throughput sequencing (HTS) techniques such as DNA meta-barcoding are advancing rapidly. These techniques are proving to be invaluable in biology and ecology, allowing scientists to rapidly and accurately detect species across a wide range of applications. These techniques involve many complex steps and materials, which if not recorded properly can seriously impede the creation of reproducible results.

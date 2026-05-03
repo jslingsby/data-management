@@ -568,6 +568,16 @@ Link: https://doi.org/10.1098/rspb.2020.2597
 
 ---
 
+## Reproducibility: science's consistency issue, The Naked Scientists Podcast
+
+Reproducibility means if you ran an experiment again, you'd get pretty much the same results. But apparently 70% of researchers can't reproduce other people's work. The problem seems worst in big journals like Nature and Science, where everyone's competing for flashy results. Some researchers might leave out data points (outliers for example) that don't fit their story, or come up with hypotheses after they've already seen the results. The guest speakers don't seem to think it's a crisis though. Science changes, methods evolve. The real issue might be simpler: people don't share their data or write clear methods. The solution lies in open code and data. Most scientists aren't trying to be shady—they're just making honest mistakes. Sharing openly means others can help catch those mistakes. Reproducibility offers scientists the chance to communicate better.
+
+Link to podcast: https://open.spotify.com/episode/37b4QTiUpHwFTiXIM2TUWr?si=1vk-rQp9QyWUKKEPWl2vqw&t=736 
+
+> Contributor: Adéle
+
+---
+
 ## From policy to practice: progress towards data- and code-sharing in ecology and evolution (Ivimey-Cook et al., 2025)
 
 Scientific journals play a crucial role in facilitating the reproducibility of research through data and code sharing policies. However, the clarity, stringency and the timing of journal sharing policies vary across ecology and evolution journals. These three metrics were tested across 275 journals by Ivimey-Cook et al.’s 2025 paper. Only 38.2% of the investigated journals enforced data sharing, and only 26.9% mandated code sharing, both of which were mainly used to help the peer review process during the publication process. The authors acknowledge the importance of reproducibility for the credibility of science and the paper goes on to explain seven key pieces of advice for ecology and evolution journals to improve their mandates on data and code sharing including monitoring compliance, employing data editors, and aligning policies. Implementing data and code sharing policies by journals will increase the overall accessibility of data and code to ultimately improve the reproducibility of research.
@@ -597,3 +607,4 @@ Link: https://theconversation.com/reproducibility-may-be-the-key-idea-students-n
 > Contributor: Rae
 
 ---
+

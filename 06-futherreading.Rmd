@@ -29,9 +29,23 @@ That should be it!
 
 ---
 
-## ReproducibiliTEA 
+## [(Zaiko et al., 2022)](https://doi.org/10.1111/1755-0998.13485) Towards reproducible metabarcoding data: Lessons from an international cross-laboratory experiment.
+
+High-throughput sequencing (HTS) techniques such as DNA meta-barcoding are advancing rapidly. These techniques are proving to be invaluable in biology and ecology, allowing scientists to rapidly and accurately detect species across a wide range of applications. These techniques involve many complex steps and materials, which if not recorded properly can seriously impede the creation of reproducible results.
+This study investigated the factors that introduce variability into HTS based studies through an “international cross-laboratory experiment”. Through sending off a similar set of samples, standardizing materials such as primers and giving each laboratory the same instructions for DNA sequencing, the study was able to identify specific areas of variability. 
+Although this paper is quite technical and jargon heavy, if read slowly and with intention it provides valuable insights into ensuring your DNA meta-barcoding work is reproducible. I am using DNA meta-barcoding in my honours project and this paper has given me some important things to keep in mind. 
+
+DOI: https://doi.org/10.1111/1755-0998.13485
+
+> Contributor: Joshua Dwyer-Thiem
+
+---
+
+## ReproducibiliTEA
+
 ReproducibiliTea is a global grassroots initiative that supports early career researchers in building communities around open and reproducible research. It was founded in 2018 at the University of Oxford, ad it provides a simple framework for setting up journal clubs that focus on improving research practices, transparency, and data sharing. The clubs are free, therefore lowering barriers for students and early career researchers to engage in conversations about reproducibility and the replication crisis. 
 https://reproducibilitea.org/ 
+
 > Contributor: Amber
 
 ---
@@ -69,7 +83,6 @@ Link to the article: https://journals.plos.org/plosbiology/article?id=10.1371/jo
 
 ---
 
-
 ## Lortie et al. (2022) "Tabular strategies for metadata in ecology, evolution, and the environmental sciences"
 
 Lortie et al. highlight the importance of metadata and propose a standardised way of documenting ecological metadata in a table format. This makes it easier to compare metadata between datasets, promotes reproducibility and streamlines workflow when working on projects. Like how datasets can be organised and standardised as “tidy tables” in R using tidyverse packages, the same can be done for metadata. The paper gives examples on how to structure and organise metadata and shows step by step how to do this. It also gives details on tools that can assist you in formatting your metadata.
@@ -79,7 +92,6 @@ https://doi: 10.1002/ece3.9245
 > Contributor: Rebecca Peacocke
 
 ---
-
 
 ## Reproducibility: The science communities’ ticking timebomb. Can we still trust published research?
 
@@ -116,7 +128,6 @@ Link: https://rsnz.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/snz2.70011
 > Contributor: Johan Cronje
 
 ---
-
 
 ## Marine Biologists clash on limits of research reproducibility
 
